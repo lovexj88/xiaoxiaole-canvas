@@ -1,0 +1,28 @@
+{
+  "resource" : [
+    {
+      "name" : "girl1",
+      "src" : "images/1.png"
+    },
+    {
+      "name" : "girl2",
+      "src" : "images/2.png"
+    },
+    {
+      "name" : "girl3",
+      "src" : "images/3.png"
+    },
+    {
+      "name" : "girl4",
+      "src" : "images/4.png"
+    },
+    {
+      "name" : "girl5",
+      "src" : "images/5.png"
+    },  
+    {
+      "name" : "girl6",
+      "src" : "images/6.png"
+    }
+  ]
+}
